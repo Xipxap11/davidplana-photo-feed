@@ -1,0 +1,16 @@
+@media (min-width: 1000px) {  /* xl breakpoint */
+  .w-lg-50 {
+    width: 50% !important;
+  }
+}
+@media (min-width: 1441px) {  /* xl breakpoint */
+  .w-xl-25 {
+    width: 25% !important;
+  }
+  .w-xl-50 {
+    width: 50% !important;
+  }
+  .w-xl-75 {
+    width: 75% !important;
+  }
+}
